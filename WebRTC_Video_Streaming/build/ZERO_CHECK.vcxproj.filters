@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Vijay.ZZZ\Desktop\WebRTC_Video_Streaming\build\CMakeFiles\4218a4a9d1a0a3fe0f05233af239af89\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5159FDAB-3C34-33EF-9537-9B05D000D907}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

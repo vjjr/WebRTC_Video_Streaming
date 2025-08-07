@@ -1,0 +1,10 @@
+^C:\USERS\VIJAY.ZZZ\DESKTOP\WEBRTC_VIDEO_STREAMING\BUILD\CMAKEFILES\4218A4A9D1A0A3FE0F05233AF239AF89\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Vijay.ZZZ/Desktop/WebRTC_Video_Streaming -BC:/Users/Vijay.ZZZ/Desktop/WebRTC_Video_Streaming/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Vijay.ZZZ/Desktop/WebRTC_Video_Streaming/build/WebRTCRealApp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

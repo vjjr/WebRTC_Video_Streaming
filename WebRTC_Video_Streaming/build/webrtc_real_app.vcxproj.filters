@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Vijay.ZZZ\Desktop\WebRTC_Video_Streaming\real_webrtc_client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Vijay.ZZZ\Desktop\WebRTC_Video_Streaming\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C51BBFBB-B3D5-3A33-958B-3ADFAEC951BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
